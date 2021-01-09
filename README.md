@@ -1,4 +1,4 @@
-### Greetings 👋  <div align="right">![atl-text-1](https://img.shields.io/badge/Profile Views-![](https://komarev.com/ghpvc/?username=KingCobra2018)-blue?logo=NPM&style=flat)</div>
+### Greetings 👋  <div align="right">![](https://komarev.com/ghpvc/?username=KingCobra2018&color=green&label=:eye:+Profile+Views)</div>
 
 What Am I Up To:
 
