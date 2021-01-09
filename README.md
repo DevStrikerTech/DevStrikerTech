@@ -12,4 +12,4 @@ What Am I Up To:
 &nbsp;
 &nbsp;
 
-![](https://komarev.com/ghpvc/?username=KingCobra2018&color=green&label=👀 +Profile+Views) [![atl-text-1](https://img.shields.io/badge/Subscribers-1.6k-red?logo=YouTube&style=flat)](https://www.youtube.com/channel/UCsAEe5uesAq16gHfscfsmFg) [![atl-text-2](https://img.shields.io/badge/Members-12k-blue?logo=Discord&style=flat)](https://discord.gg/ef5KsqP)
+![](https://komarev.com/ghpvc/?username=KingCobra2018&color=green&label=👀+Profile+Views) [![atl-text-1](https://img.shields.io/badge/Subscribers-1.6k-red?logo=YouTube&style=flat)](https://www.youtube.com/channel/UCsAEe5uesAq16gHfscfsmFg) [![atl-text-2](https://img.shields.io/badge/Members-12k-blue?logo=Discord&style=flat)](https://discord.gg/ef5KsqP)
