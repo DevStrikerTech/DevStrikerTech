@@ -1,4 +1,4 @@
-### Greetings 👋  <div align="right">![atl-text-1](https://img.shields.io/badge/![](https://komarev.com/ghpvc/?username=KingCobra2018)-blue?logo=NPM&style=flat)</div>
+### Greetings 👋  <div align="right">![atl-text-1](https://img.shields.io/badge/some-text-blue?logo=NPM&style=flat)</div>
 
 What Am I Up To:
 
