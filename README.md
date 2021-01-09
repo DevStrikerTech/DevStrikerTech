@@ -1,4 +1,4 @@
-### Greetings 👋  <div align="right">![](https://komarev.com/ghpvc/?username=KingCobra2018&color=green&label=:smile:+Profile+Views)</div>
+### Greetings 👋  <div align="right">![](https://komarev.com/ghpvc/?username=KingCobra2018&color=lightblue&label=+Profile+Views)</div>
 
 What Am I Up To:
 
@@ -9,4 +9,3 @@ What Am I Up To:
 
 <img src="https://github-readme-stats.vercel.app/api?username=KingCobra2018&show_icons=true&hide=prs,issues">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingCobra2018">
-&
