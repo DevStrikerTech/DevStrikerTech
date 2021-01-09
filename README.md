@@ -1,4 +1,4 @@
-### Greetings 👋  <right>![counter](https://komarev.com/ghpvc/?username=KingCobra2018&color=green)</right>
+### Greetings 👋  <div align="right">![counter](https://komarev.com/ghpvc/?username=KingCobra2018&color=green)</div>
 
 What Am I Up To:
 
