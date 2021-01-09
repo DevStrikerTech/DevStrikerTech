@@ -1,4 +1,4 @@
-<div align="right">![](https://komarev.com/ghpvc/?username=KingCobra2018&color=lightgrey&label=+Profile+Views)</div>
+![](https://komarev.com/ghpvc/?username=KingCobra2018&color=lightgrey&label=Profile+Views)
 
 ### Greetings 👋
 What Am I Up To:
