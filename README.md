@@ -1,5 +1,6 @@
-### Greetings 👋  <div align="right">![](https://komarev.com/ghpvc/?username=KingCobra2018&color=lightgrey&label=+Profile+Views)</div>
+<div align="right">![](https://komarev.com/ghpvc/?username=KingCobra2018&color=lightgrey&label=+Profile+Views)</div>
 
+### Greetings 👋
 What Am I Up To:
 
 - 🔭 Working on a NLP project
