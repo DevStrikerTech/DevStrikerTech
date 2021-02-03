@@ -13,3 +13,5 @@ What Am I Up To:
 &nbsp;
 
 ![](https://komarev.com/ghpvc/?username=DevStrikerTech&color=green&label=👁️‍+&nbsp;+Profile+Views) [![atl-text-1](https://img.shields.io/badge/Subscribers-30-red?logo=YouTube&style=flat)](https://www.youtube.com/channel/UCsAEe5uesAq16gHfscfsmFg) [![atl-text-2](https://img.shields.io/badge/Members-1.7k-blue?logo=Discord&style=flat)](https://discord.gg/ef5KsqP)
+
+<iframe style="height:80px;width:300px;border:none;" frameborder="0" src="https://counts.live/embeds/youtube-subscriber-count/UCsAEe5uesAq16gHfscfsmFg/small" />
