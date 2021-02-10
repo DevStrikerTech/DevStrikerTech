@@ -12,4 +12,4 @@ What Am I Up To:
 &nbsp;
 &nbsp;
 
-![](https://komarev.com/ghpvc/?username=DevStrikerTech&color=yellow&label=👁️‍+&nbsp;+Profile+Views) ![YouTube Video Views](https://img.shields.io/youtube/views/o3bhQwY0KCY?style=social) ![Discord](https://img.shields.io/discord/699963943082524705?logo=Discord)
+![](https://komarev.com/ghpvc/?username=DevStrikerTech&color=yellow&label=👁️‍+&nbsp;+Profile+Views) ![YouTube Video Views](https://img.shields.io/youtube/views/0OissK4-sRM?style=social) ![Discord](https://img.shields.io/discord/699963943082524705?logo=Discord)
