@@ -1,8 +1,8 @@
 ### Greetings 👋
 What Am I Up To:
 
-- 🔭 Working on a NLP project
-- 🌱 Exploring Data Warehousing
+- 🔭 Working on a Sprk ML project
+- 🌱 Exploring Data Engineering
 - 📫 Reach me via Discord @Nishat#4827
 
 
