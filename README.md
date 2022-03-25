@@ -1,7 +1,7 @@
 ### Greetings 👋
 What Am I Up To:
 
-- 🔭 Working on a Sprk ML project
+- 🔭 Working on a Spark ML project
 - 🌱 Exploring Data Engineering
 - 📫 Reach me via Discord @Nishat#4827
 
