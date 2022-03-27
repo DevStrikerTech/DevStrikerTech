@@ -3,7 +3,7 @@ What Am I Up To:
 
 - 🔭 Working on a Spark ML project
 - 🌱 Exploring Data Engineering
-- 📫 Reach me via Discord @Nishat #4827
+- 📫 Reach me via Discord @Nishat#4827
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=DevStrikerTech&show_icons=true&hide=prs,issues">
