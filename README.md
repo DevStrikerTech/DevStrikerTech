@@ -12,6 +12,6 @@ What Am I Up To:
 &nbsp;
 &nbsp;
 
-[![Join my Discord server!](https://invidget.switchblade.xyz/NKCyjjw3MW?theme=light)](https://discord.gg/ef5KsqP)
+[![Join my Discord server!](https://invidget.switchblade.xyz/ef5KsqP?theme=light)](https://discord.gg/ef5KsqP)
 
 ![](https://komarev.com/ghpvc/?username=DevStrikerTech&color=yellow&label=👁️‍+&nbsp;+Profile+Views) ![YouTube Video Views](https://img.shields.io/youtube/views/-wbya9TlnFw?style=social)
