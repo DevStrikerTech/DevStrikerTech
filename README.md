@@ -1,7 +1,7 @@
 ### Greetings 👋
 What Am I Up To:
 
-- 🔭 Working on a AWS/PySprak/NiFi
+- 🔭 Working on a AWS/PySprak/Apache NiFi
 - 🌱 Exploring Data Engineering
 - 📫 Reach me via Discord @Nishat#4827
 
