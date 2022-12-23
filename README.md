@@ -3,7 +3,7 @@ What Am I Up To:
 
 - 🔭 Working on a AWS/PySprak/Apache NiFi
 - 🌱 Exploring Data Engineering
-- 📫 Reach me via Discord @Nishat#4827
+- 📫 Reach me via Discord
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=DevStrikerTech&show_icons=true&hide=prs,issues">
