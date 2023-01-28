@@ -1,7 +1,7 @@
 ### Greetings 👋
 What Am I Up To:
 
-- 🔭 Working on a AWS/PySprak/Apache NiFi
+- 🔭 Working on a Low Code Transformation Engine
 - 🌱 Exploring Data Engineering
 - 📫 Reach me via Discord
 
