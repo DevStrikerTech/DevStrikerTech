@@ -1,9 +1,9 @@
 ### Greetings 👋
 What Am I Up To:
 
-- 🔭 Working on a Low Code Transformation Engine
-- 🌱 Exploring Data Engineering
-- 📫 Reach me via Discord
+- 🔭 Working on a Low Code Transformation Engine.
+- 🌱 Exploring Data Engineering.
+- 📫 Reach me via Discord.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=DevStrikerTech&show_icons=true&hide=prs,issues">
